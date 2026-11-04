@@ -1,0 +1,6 @@
+{
+  "name": "ZiyoLMS - Zamonaviy Ta'lim Tizimi",
+  "description": "O'zbek tilidagi to'liq va interaktiv ta'lim tizimi (LMS) - kurslar, darslar, bilimlarni mustahkamlash o'yinlari, testlar, dars jadvali va tahliliy natijalar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
